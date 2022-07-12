@@ -1,0 +1,33 @@
+
+
+/********************** Tag Selector********************/
+body{
+    background-color: rgb(160, 255, 188);
+    font-family: monospace;
+}
+h1{
+    color: rgb(255, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img:hover{
+    background-color: salmon;
+}
+p{
+    color: rgb(83, 0, 94);
+}
+/***********************Class Selector********************/
+.bacon{
+    background-color: rgb(0, 255, 0);
+}
+.broccoli{
+    background-color: rgb(255, 0, 0);
+    width: 160px;
+    height: 160px;
+}
+/*********************ID Selector************************/
+#cir{
+    border-radius: 100%;
+}
+#h1:hover{
+    color: rgb(0, 0, 255);
+}
